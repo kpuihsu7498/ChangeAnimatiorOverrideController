@@ -1,0 +1,280 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.1f1 (270dd8c3da1c) revision 2559448'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.0) 64bit' Language: 'en' Physical Memory: 8073 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Editor\2020.2.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Make game Unity2D 2021/ChangeAnimatiorOverrideController/Demo Animator Override
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+57876
+Successfully changed project path to: D:/Make game Unity2D 2021/ChangeAnimatiorOverrideController/Demo Animator Override
+D:/Make game Unity2D 2021/ChangeAnimatiorOverrideController/Demo Animator Override
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 75.75 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.1f1 (270dd8c3da1c)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Editor/2020.2.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Make game Unity2D 2021/ChangeAnimatiorOverrideController/Demo Animator Override/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics 3000 (ID=0x126)
+    Vendor:   
+    VRAM:     128 MB
+    Driver:   9.17.10.4459
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Editor/2020.2.1f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Editor/2020.2.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Editor/2020.2.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56560
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Editor/2020.2.1f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Editor/2020.2.1f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Editor/2020.2.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Editor/2020.2.1f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Editor/2020.2.1f1/Editor/Data/PlaybackEngines/LuminSupport/UnityEditor.Lumin.Extensions.dll
+Registered in 0.006702 seconds.
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 74.29 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.872 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001840 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 75.89 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.081 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.15 seconds
+Refreshing native plugins compatible for Editor in 0.76 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1787 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.4 MB.
+System memory in use after: 84.4 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2226.
+Total: 3.153600 ms (FindLiveObjects: 0.221400 ms CreateObjectMapping: 0.098400 ms MarkObjects: 2.615600 ms  DeleteObjects: 0.216100 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scenes
+  artifactKey: Guid(207d5eeb87d4e5c49b887c0a12e97652) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(207d5eeb87d4e5c49b887c0a12e97652) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02091155ed2291d8f69cbe30f206a4a0') in 0.017608 seconds
+  Import took 0.029136 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68e638b9c95263cbd6c5b1eb18544bd4') in 0.038828 seconds
+  Import took 0.046319 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.346537 seconds.
+  path: Assets/Scenes/Scripts
+  artifactKey: Guid(ee41b7e4cd459bb409bc666ab0df9840) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Scripts using Guid(ee41b7e4cd459bb409bc666ab0df9840) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0df763c95ef20b8aeff86fe690d96015') in 0.021355 seconds
+  Import took 0.029549 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.602580 seconds.
+  path: Assets/Scenes/Scripts/ChangeAnimatorOverride.cs
+  artifactKey: Guid(6a0288db6643caf46b43e375ff31025c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Scripts/ChangeAnimatorOverride.cs using Guid(6a0288db6643caf46b43e375ff31025c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e8cd5a691b01cd0d8004f3767ef91b6') in 0.179215 seconds
+  Import took 0.205039 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.079773 seconds.
+  path: Assets/Scenes/Scripts/ChangeAnimatorOverride.cs
+  artifactKey: Guid(6a0288db6643caf46b43e375ff31025c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Scripts/ChangeAnimatorOverride.cs using Guid(6a0288db6643caf46b43e375ff31025c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e8cd5a691b01cd0d8004f3767ef91b6') in 0.036972 seconds
+  Import took 0.063672 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001560 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.908 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.69 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1783 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.5 MB.
+System memory in use after: 84.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2230.
+Total: 3.200800 ms (FindLiveObjects: 0.217400 ms CreateObjectMapping: 0.092600 ms MarkObjects: 2.735500 ms  DeleteObjects: 0.153100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001759 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.058 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.59 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1783 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.6 MB.
+System memory in use after: 84.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2233.
+Total: 3.332300 ms (FindLiveObjects: 0.221400 ms CreateObjectMapping: 0.094900 ms MarkObjects: 2.855800 ms  DeleteObjects: 0.158200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 556.995871 seconds.
+  path: Assets/Scenes/Scripts/ChangeAnimatorOverride.cs
+  artifactKey: Guid(6a0288db6643caf46b43e375ff31025c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Scripts/ChangeAnimatorOverride.cs using Guid(6a0288db6643caf46b43e375ff31025c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cc12eca54284d1556ad91a665719064') in 0.020513 seconds
+  Import took 0.055348 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 43.699493 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1a2c4dac9df7c17871e19a3b74f0e9f') in 0.071575 seconds
+  Import took 0.120371 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001825 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.85 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.127 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.58 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1783 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.7 MB.
+System memory in use after: 84.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2236.
+Total: 3.057500 ms (FindLiveObjects: 0.225700 ms CreateObjectMapping: 0.091600 ms MarkObjects: 2.587400 ms  DeleteObjects: 0.150700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 40.125504 seconds.
+  path: Assets/Animation
+  artifactKey: Guid(d747742cf1841604daa482bfec966bc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation using Guid(d747742cf1841604daa482bfec966bc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '624a4cb958903514a822ddd542af8a61') in 0.066247 seconds
+  Import took 0.099442 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.606545 seconds.
+  path: Assets/Animation/Sword Combat.overrideController
+  artifactKey: Guid(5722c6915923a6d4699c808d83e8bd88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Sword Combat.overrideController using Guid(5722c6915923a6d4699c808d83e8bd88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91ea1f8bef4c809d5221f5188c3a2871') in 0.185029 seconds
+  Import took 0.197290 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.586468 seconds.
+  path: Assets/Animation/Hand Combat.overrideController
+  artifactKey: Guid(bfa18197767969544b2478d56d1eb40d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Hand Combat.overrideController using Guid(bfa18197767969544b2478d56d1eb40d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95683f4e0b81c83126e999677611849c') in 0.029820 seconds
+  Import took 0.066899 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.042563 seconds.
+  path: Assets/Animation/Character.controller
+  artifactKey: Guid(9c896a0c80f4ea54a999acc76a245f01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Character.controller using Guid(9c896a0c80f4ea54a999acc76a245f01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f92d3e1d62ca89f8e86335ff9db7d5c') in 0.040704 seconds
+  Import took 0.079326 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.338982 seconds.
+  path: Assets/Animation/Character.controller
+  artifactKey: Guid(9c896a0c80f4ea54a999acc76a245f01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Character.controller using Guid(9c896a0c80f4ea54a999acc76a245f01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecfc849b1312b75e31f77811927b0c9f') in 0.019414 seconds
+  Import took 0.035917 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.693298 seconds.
+  path: Assets/Animation/Sword Combat.overrideController
+  artifactKey: Guid(5722c6915923a6d4699c808d83e8bd88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Sword Combat.overrideController using Guid(5722c6915923a6d4699c808d83e8bd88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c72ddf04dc06659652811dd3351828f3') in 0.018567 seconds
+  Import took 0.037892 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.145966 seconds.
+  path: Assets/Animation/Hand Combat.overrideController
+  artifactKey: Guid(bfa18197767969544b2478d56d1eb40d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Hand Combat.overrideController using Guid(bfa18197767969544b2478d56d1eb40d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b27e6cc5f9d91a8b1c9a714d03224f0') in 0.037538 seconds
+  Import took 0.066079 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
